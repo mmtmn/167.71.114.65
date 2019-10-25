@@ -1,0 +1,21 @@
+body {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+}
+
+a:link {
+    color: darkred;
+}
+
+a:visited {
+    color: darkred;
+}
+
+a:hover {   
+    color: darkblue
+}
+
+a:active {
+    color: red
+}
